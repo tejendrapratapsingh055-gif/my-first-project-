@@ -1,0 +1,2 @@
+gcc expr_calc.c -o expr_calc -lm
+.\expr_calc.exe
